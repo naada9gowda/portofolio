@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings and swap files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log
+
+# Generated web artifacts
+dist/
+build/
+node_modules/
